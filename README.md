@@ -37,5 +37,5 @@ Utilizando   | Aprendendo
 ##
   
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Gustavo032/Gustavo032/blob/output/github-contribution-grid-snake.svg)
  
