@@ -1,11 +1,12 @@
 ## Eai Pessoas!
 
 <ol>
-<li> Atualmente trabalhando: como Estágiario na empresa <a href="contabilizeae.com.br">Contabilize Acessoria Empresárial</a> </li>
-<li> Linguagens que utilizo: HTML5, CSS3 e JavaScript </li>
-<li> Um pouco sobre mim: Tenho 16 anos, sou um estudante do ensino médio, faço estágio na empresa Contabilize Acessoria Empresárial e tento, no meu tempo livre, estudar programação e praticar meus conhecimentos. </li>
+  <li> Atualmente trabalhando: como Estágiario na empresa <a href="https://www.contabilizeae.com.br" target="_blank">Contabilize Acessoria Empresárial</a> </li>
+  <li> Linguagens que utilizo: HTML5, CSS3 e JavaScript </li>
+  <li> Um pouco sobre mim: Tenho 16 anos, sou um estudante do ensino médio, faço estágio na empresa Contabilize Acessoria Empresárial e tento, no meu tempo livre, estudar programação e praticar meus conhecimentos. </li>
   <li> Pronomes: ele/dele </li>
 </ol>
+
 <ul>
   <li>Espero trabalhar com programção um dia! 🙌</li>
 </ul>
