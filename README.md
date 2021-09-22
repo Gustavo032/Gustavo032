@@ -22,7 +22,7 @@
 
 <div>
   <a href="https://github.com/Gustavo032">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gustavo032&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=9644f4&custom_title=Estes são meus status:"/>  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gustavo032&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=9644f4&custom_title=Estes são meus status:"/>  
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo032&layout=compact&langs_count=7&theme=midnight-purple&border_color=9644f4&custom_title=Top Linguagens usadas:"/>
   </a>
 </div>
@@ -32,14 +32,14 @@
 
 Utilizando   | Aprendendo
  :---------: | :------:
-<img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> | <img align="center" alt="Gustavo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | <img align="center" alt="Gustavo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |
+<img align="center" alt="Gustavo-Js" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> | <img align="center" alt="Gustavo-React" height="30em" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Gustavo-HTML" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | <img align="center" alt="Gustavo-Node" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="Gustavo-CSS" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |
 
   <br>
   
   <h1>Ignite</h1>
-<img align="center" height="540" width="470"  src="https://cdn.discordapp.com/attachments/888964420938641411/888964582213816340/Passaporte-react-js.png">
+<img align="center" height="540em" width="470em"  src="https://cdn.discordapp.com/attachments/888964420938641411/888964582213816340/Passaporte-react-js.png">
     
  
 
