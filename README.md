@@ -36,6 +36,11 @@ Utilizando   | Aprendendo
 <img align="center" alt="Gustavo-HTML" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | <img align="center" alt="Gustavo-Node" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Gustavo-CSS" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |
 
+  ## Total de Visitas no perfil: <br>
+ <p align = "center"> 
+   <img alingn = "center" src = "https://profile-counter.glitch.me/gustavo032/count.svg" />
+ </p>
+
   <br>
   
   <h1>Ignite</h1>
