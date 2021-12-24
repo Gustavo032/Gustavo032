@@ -1,10 +1,10 @@
 ## Eai Pessoas!
 
 <ol>
-  <li> Atualmente trabalhando: como Estágiario na empresa <a href="https://www.contabilizeae.com.br" target="_blank">Contabilize Acessoria Empresárial</a> </li>
+  <li> Atualmente trabalhando: como Estágiario na empresa <a href="https://www.contabilizeae.com.br" target="_blank">Contabilize Assessoria Empresárial</a> </li>
   <li> Linguagens que utilizo: HTML5, CSS3 e JavaScript </li>
   <li> frameworks/bibliotecas que utilizo: ReactJS </li>
-  <li> Um pouco sobre mim: Tenho 17 anos, sou um estudante do ensino médio, faço estágio na empresa Contabilize Acessoria Empresárial, e tento, no meu tempo livre, estudar programação e praticar os meus conhecimentos. </li>
+  <li> Um pouco sobre mim: Tenho 17 anos, sou um estudante do ensino médio, faço estágio na empresa Contabilize Aessoria Empresárial, e tento, no meu tempo livre, estudar programação e praticar os meus conhecimentos. </li>
   <li> Pronomes: ele/dele </li>
 </ol>
 
