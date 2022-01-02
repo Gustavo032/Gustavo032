@@ -2,8 +2,7 @@
 
 <ol>
   <li> Atualmente trabalhando: como Estágiario na empresa <a href="https://www.contabilizeae.com.br" target="_blank">Contabilize Assessoria Empresárial</a> </li>
-  <li> Linguagens que utilizo: HTML5, CSS3 e JavaScript </li>
-  <li> frameworks/bibliotecas que utilizo: ReactJS </li>
+  <li> Principais tecnologias que utilizo: ReactJS, NextJS e TypeScript </li>
   <li> Um pouco sobre mim: Tenho 17 anos, sou um estudante do ensino médio, faço estágio na empresa Contabilize Assessoria Empresárial, e tento, no meu tempo livre, estudar programação e praticar os meus conhecimentos. </li>
   <li> Pronomes: ele/dele </li>
 </ol>
@@ -39,7 +38,7 @@ Utilizando   | Aprendendo
 
   
   <h1>Ignite</h1>
-<img align="center" height="540em" width="470em"  src="https://cdn.discordapp.com/attachments/888964420938641411/888964582213816340/Passaporte-react-js.png">
+<img align="center" height="38rem" width="33rem"  src="https://cdn.discordapp.com/attachments/888964420938641411/888964582213816340/Passaporte-react-js.png">
     
  
 
