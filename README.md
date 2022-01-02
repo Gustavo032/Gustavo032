@@ -37,8 +37,8 @@ Utilizando   | Aprendendo
 <img align="center" alt="Gustavo-CSS" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |
 
   
-  <h1>Ignite</h1>
-<img align="center" height="30em" width="25em"  src="https://cdn.discordapp.com/attachments/888964420938641411/888964582213816340/Passaporte-react-js.png">
+  <h2>Ignite</h2>
+<img align="center" height="500em" width="420em" src="https://cdn.discordapp.com/attachments/888964420938641411/888964582213816340/Passaporte-react-js.png">
     
  
 
