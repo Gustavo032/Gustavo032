@@ -38,7 +38,7 @@ Utilizando   | Aprendendo
 
   
   <h1>Ignite</h1>
-<img align="center" height="38rem" width="33rem"  src="https://cdn.discordapp.com/attachments/888964420938641411/888964582213816340/Passaporte-react-js.png">
+<img align="center" height="30em" width="25em"  src="https://cdn.discordapp.com/attachments/888964420938641411/888964582213816340/Passaporte-react-js.png">
     
  
 
