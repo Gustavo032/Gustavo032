@@ -3,7 +3,7 @@
 <ol>
   <li> Atualmente trabalhando: como Estagiário na empresa <a href="https://www.contabilizeae.com.br" target="_blank">Contabilize Assessoria Empresarial</a> </li>
   <li> Principais tecnologias que utilizo: ReactJS, NextJS e TypeScript </li>
-  <li> Um pouco sobre mim: Tenho 17 anos, sou um estudante do ensino médio, faço estágio na empresa Contabilize Assessoria Empresárial, e tento, no meu tempo livre, estudar programação e praticar os meus conhecimentos. </li>
+  <li> Um pouco sobre mim: Tenho 17 anos, sou um estudante do ensino médio, faço estágio na empresa Contabilize Assessoria Empresarial, e tento, no meu tempo livre, estudar programação e praticar os meus conhecimentos. </li>
   <li> Pronomes: ele/dele </li>
 </ol>
 
