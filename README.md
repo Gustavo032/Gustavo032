@@ -28,14 +28,25 @@
 </div>
 
   
+#### Technologies:
 
-
-Utilizando   | Estudando
+Using   | Studying
  :---------: | :------:
 <img align="center" alt="Gustavo-Js" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> | <img align="center" alt="Gustavo-React" height="30em" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Gustavo-HTML" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | <img align="center" alt="Gustavo-Node" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Gustavo-CSS" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |
 
+
+#### Top Repositories
+
+<a href="https://github.com/Gustavo032/ig.news">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo032&repo=ig.news&theme=midnight-purple&border_color=9644f4" />
+</a>
+<a href="https://github.com/Gustavo032/Ignite-ReactJs-Desafio-5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo032&repo=Ignite-ReactJs-Desafio-5&theme=midnight-purple&border_color=9644f4" />
+</a>
+
+  
   
   <h2>Ignite</h2>
 <img align="center" height="500em" width="420em" src="https://cdn.discordapp.com/attachments/888964420938641411/888964582213816340/Passaporte-react-js.png">
