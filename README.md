@@ -49,7 +49,7 @@ Using   | Studying
   
   
   <h2>Ignite</h2>
-<img align="center" height="500em" width="420em" src="https://cdn.discordapp.com/attachments/888964420938641411/888964582213816340/Passaporte-react-js.png">
+<img align="center" height="100%" width="75%" src="https://i.ibb.co/SBndC2K/certificado.png">
     
  
 
