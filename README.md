@@ -3,7 +3,7 @@
 <ol>
   <li> Atualmente trabalhando: como T.I na empresa <a href="https://www.contabilizeae.com.br" target="_blank">Contabilize Assessoria Empresarial</a> sendo o único do departamento</li>
   <li> Principais tecnologias que utilizo: ReactJS, NextJS, NodeJS e TypeScript </li>
-  <li> Um pouco sobre mim: Tenho 17 anos, estou cursando o ensino médio, Trabalho como Aux. de T.I na empresa Contabilize Assessoria Empresarial, e tento, no meu tempo livre, estudar programação e praticar os meus conhecimentos.</li>
+  <li> Um pouco sobre mim: Tenho 18 anos, estou cursando o ensino médio, Trabalho como Aux. de T.I na empresa Contabilize Assessoria Empresarial, e tento, no meu tempo livre, estudar programação e praticar os meus conhecimentos.</li>
   <li> Pronomes: ele/dele </li>
 </ol>
 
