@@ -32,10 +32,13 @@
 
 Using   | Studying
  :---------: | :------:
-<img align="center" alt="Gustavo-Js" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> | <img align="center" alt="Gustavo-React" height="30em" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Gustavo-HTML" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | <img align="center" alt="Gustavo-Node" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Gustavo-CSS" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |
-
+<img align="center" alt="ReactJS" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> | <img align="center" alt="NextJS" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> 
+<img align="center" alt="NodeJS" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> | <img align="center" alt="postgresql" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
+<img align="center" alt="JavaScript" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> | <img align="center" alt="mongodb" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> 
+<img align="center" alt="HTML" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> |  
+<img align="center" alt="CSS" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> | 
+<img align="center" alt="Filezilla" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg"> | 
+<img align="center" alt="Express" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> | 
 
 #### Top Repositories
 
