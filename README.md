@@ -8,7 +8,7 @@
 </ol>
 
 <ul>
-  <li>Evoluindo constantemente a cada dia! 🙌</li>
+  <li>Evoluindo constantemente todos os dias! 🙌</li>
 </ul>
 
 <div align="center">
