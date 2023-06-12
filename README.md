@@ -63,7 +63,7 @@ Using   | Studying
 ![Snake animation](https://github.com/Gustavo032/Gustavo032/blob/output/github-contribution-grid-snake.svg)
  
 
-  ## Total de Visitas no perfil: <br>
+  ## Estimativa de Todas as Visitas no perfil: <br>
  <p align = "center"> 
    <img alingn = "center" src = "https://profile-counter.glitch.me/gustavo032/count.svg" />
  </p>
