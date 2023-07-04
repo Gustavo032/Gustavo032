@@ -22,7 +22,7 @@
 
 <div>
   <a href="https://github.com/Gustavo032">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gustavo032&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=9644f4" alt="Anurag's github stats" />  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gustavo032&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=9644f4" alt="Gustavo's github stats" />  
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo032&layout=compact&langs_count=7&theme=midnight-purple&border_color=9644f4" />
   </a>
 </div>
