@@ -1,7 +1,8 @@
 ## Hello World!
 
 <ol>
-  <li> Trabalhando atualmente: como T.I na empresa <a href="https://www.contabilizeae.com.br" target="_blank">Contabilize Assessoria Empresarial</a> sendo o único responsável pelo departamento</li>
+  <li> Trabalhando atualmente: como Desenvolvedor na empresa <a href="https://codematch.com.br target="_blank">Code Match</a> sendo o Fundador da empresa</li>
+  <li> Experiência: como T.I na empresa <a href="https://www.contabilizeae.com.br" target="_blank">Contabilize Assessoria Empresarial</a> sendo o único responsável pelo departamento</li>
   <li> Principais tecnologias que utilizo: ReactJS, React Native, NextJS, NodeJS e TypeScript </li>
   <li> Um pouco sobre mim: Tenho 18 anos, estou cursando o ensino médio, trabalho como Assistente de T.I na empresa Contabilize Assessoria Empresarial, e tento, no meu tempo livre, estudar programação e praticar os meus conhecimentos.</li>
   
