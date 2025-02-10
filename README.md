@@ -18,7 +18,7 @@ Estou cursando **Engenharia de Software** e trabalho como Analista de T.I na emp
   <a href="https://www.linkedin.com/in/gustavoramos32/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:gustavo.ramos.silva.santos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://wa.me/5511971689500"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://app.rocketseat.com.br/me/guusta"><img height="28.7" src="https://blog.rocketseat.com.br/content/images/2023/12/IMG_blog-4.png"></a>
+  <a href="https://app.rocketseat.com.br/me/guusta"><img height="28.7" src="https://cdn.worldvectorlogo.com/logos/rocketseat.svg"></a>
 </div>
 
 ---
@@ -34,22 +34,22 @@ Estou cursando **Engenharia de Software** e trabalho como Analista de T.I na emp
 ---
 
 ### Tecnologias
+| **Using** | **Using** | **Studying** |
+| :--------: | :--------: | :------: |
+| <img align="center" alt="React" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> | <img align="center" alt="AdonisJS" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg"> | <img align="center" alt="C#" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> |
+| <img align="center" alt="MaterialUI" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"> | <img align="center" alt="NodeJS" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> | <img align="center" alt="PHP" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> |
+| <img align="center" alt="JavaScript" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> | <img align="center" alt="TypeScript" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> | <img align="center" alt="Python" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> |
+| <img align="center" alt="Filezilla" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg"> | <img align="center" alt="PostgreSQL" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> | <img align="center" alt="NextJS" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> |
+| <img align="center" alt="SQL" height="30em" width="40em" src="https://cdn-icons-png.freepik.com/256/13941/13941314.png?semt=ais_hybrid"> | <img align="center" alt="MySQL" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> | <img align="center" alt="React Native" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> |
+| <img align="center" alt="MongoDB" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> | <img align="center" alt="Redis" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"> | <img align="center" alt="Flask" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"> |
+| <img align="center" alt="Docker" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> | <img align="center" alt="Nginx" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"> | <img align="center" alt="Kubernetes" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"> |
+| <img align="center" alt="Fail2ban" height="30em" width="40em" src="https://cybergladius.com/wp-content/uploads/2021/07/fail2ban-1-981x1024.png"> | <img align="center" alt="Linux Ubuntu" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> | <img align="center" alt="Electron" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"> |
+| <img align="center" alt="Azure Cloud" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> | <img align="center" alt="Google Cloud" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"> | |
+| <img align="center" alt="ESLint" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg"> | <img align="center" alt="SQLite" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"> | |
+| <img align="center" alt="IIS" height="30em" width="40em" src="https://deepnetsecurity.com/wp-content/uploads/MFA-for-IIS-Websites.png"> | <img align="center" alt="JWT" height="30em" width="40em" src="https://img.icons8.com/?size=512&id=rHpveptSuwDz&format=png"> | |
+| <img align="center" alt="Prisma" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg"> | <img align="center" alt="WebSockets" height="30em" width="40em" src="https://www.svgrepo.com/show/443547/brand-websocket.svg"> | |
+| <img align="center" alt="PM2" height="30em" width="40em" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/pm2-icon.svg"> | | |
 
-#### Usando:
-
-- ![ReactJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
-- ![NodeJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)
-- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
-- ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-- ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
-- ![Filezilla](https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg)
-
-#### Estudando:
-
-- ![NextJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg)
-- ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)
-- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)
-- ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg)
 
 ---
 
@@ -66,7 +66,7 @@ Estou cursando **Engenharia de Software** e trabalho como Analista de T.I na emp
 
 ### Conquistas
 
-<img align="center" height="100%" width="75%" src="https://i.ibb.co/SBndC2K/certificado.png">
+<img align="center" height="50%" width="25%" src="https://i.ibb.co/SBndC2K/certificado.png">
 
 ---
 
