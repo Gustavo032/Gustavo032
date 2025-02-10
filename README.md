@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/gustavoramos32/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:gustavo.ramos.silva.santos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://wa.me/5511971689500"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://app.rocketseat.com.br/me/guusta"><img height="28.7" src="https://uploaddeimagens.com.br/images/003/426/201/original/iconerocketseat.png?1631485844"></a>
+  <a href="https://app.rocketseat.com.br/me/guusta"><img height="28.7" src="https://www.rocketseat.com.br/_next/static/media/rocketseat-logo.a329c198.svg"></a>
 </div>
   
 ##
