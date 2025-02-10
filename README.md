@@ -98,6 +98,8 @@ Aqui estão alguns dos meus certificados:
 
 <img src="https://i.ibb.co/FbrrJmXp/Screenshot-2025-02-10-12-31-35-849-com-linkedin-android-edit.jpg" alt="Certificado 14" border="0">
 
+<img src="https://i.ibb.co/gqF6N9n/Captura-de-tela-2025-02-10-121032.png" alt="Certificado 15" border="0">
+
 
 ---
 
