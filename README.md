@@ -77,4 +77,4 @@ Estou cursando **Engenharia de Software** e trabalho como Analista de T.I na emp
 
 ---
 
-![snake gif](https://github.com/Gustavo032/Gustavo032/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Gustavo032/Gustavo032/blob/output/github-snake.svg)
