@@ -1,7 +1,7 @@
 ## Hello World! 👋
 
 ### Sobre mim
-- **Atualmente**: Analista de T.I na Magazine Luiza e **Desenvolvedor** na [Code Match](https://codematch.com.br).
+- **Atualmente**: **Analista de T.I** na [Magazine Luiza](https://www.magazineluiza.com.br/) e **Desenvolvedor** na [Code Match](https://codematch.com.br).
 - **Experiência**: Como Assistente de T.I na [Contabilize Assessoria Empresarial](https://www.contabilizeae.com.br), onde fui o único responsável pelo departamento de tecnologia e como Auxiliar de T.I (e desenvolvedor) na empresa [I Need T.I](https://www.ineedti.com/), onde prestei serviços de Suporte de T.I para diversas empresas de diversos ramos, sendo muito elogiado por todas empresas clientes. Além de desenvolver um sistema de pedido de refeição para escola [MapleBear](https://granjaviana.maplebear.com.br/) .
 - **Idade**: 20 anos
 - **Formação**: Cursando **Engenharia de Software** na Anhanguera.
