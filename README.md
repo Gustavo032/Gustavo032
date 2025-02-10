@@ -62,7 +62,7 @@ Using   | Studying
 ##
   
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Gustavo032/Gustavo032/blob/output/github-snake-dark.svg)
 
   ## Estimativa de Todas as Visitas no perfil: <br>
  <p align = "center"> 
