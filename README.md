@@ -63,42 +63,40 @@ Estou cursando **Engenharia de Software** e trabalho como Analista de T.I na emp
 </a>
 
 ---
-
 ### Conquistas
 
-<img align="center" height="50%" width="25%" src="https://i.ibb.co/SBndC2K/certificado.png" alt="Certificado 1" border="0">
-
-Aqui estão alguns dos meus certificados:
-
-<img src="https://i.ibb.co/KzNfM40j/Captura-de-tela-2025-02-10-115339.png" alt="Certificado 1" border="0" />
-
-<img src="https://i.ibb.co/RGSnqc2c/Captura-de-tela-2025-02-10-115410.png" alt="Certificado 2" border="0" />
-
-<img src="https://i.ibb.co/0yK7YmxB/Captura-de-tela-2025-02-10-115425.png" alt="Certificado 3" border="0" />
-
-<img src="https://i.ibb.co/FkwCYkfp/Captura-de-tela-2025-02-10-115441.png" alt="Certificado 4" border="0" />
-
-<img src="https://i.ibb.co/NgF6szNJ/Captura-de-tela-2025-02-10-115504.png" alt="Certificado 5" border="0" />
-
-<img src="https://i.ibb.co/Xr40zbSw/Captura-de-tela-2025-02-10-115526.png" alt="Certificado 6" border="0" />
-
-<img src="https://i.ibb.co/r2kftkmY/Captura-de-tela-2025-02-10-115549.png" alt="Certificado 7" border="0" />
-  
-<img src="https://i.ibb.co/tw15ZpZ8/Captura-de-tela-2025-02-10-115612.png" alt="Certificado 8" border="0" />
-
-<img src="https://i.ibb.co/5gPq4xDm/Captura-de-tela-2025-02-10-115641.png" alt="Certificado 9" border="0" />
-
-<img src="https://i.ibb.co/LzB8JNyk/Captura-de-tela-2025-02-10-115704.png" alt="Certificado 10" border="0" />
-
-<img src="https://i.ibb.co/27r6j6xY/Captura-de-tela-2025-02-10-115721.png" alt="Certificado 11" border="0" />
-
-<img src="https://i.ibb.co/C5nVgX9H/Captura-de-tela-2025-02-10-115757.png" alt="Certificado 12" border="0" />
-
-<img src="https://i.ibb.co/JwDLCfR3/Screenshot-2025-02-10-12-32-23-822-com-linkedin-android-edit.jpg" alt="Certificado 13" border="0">
-
-<img src="https://i.ibb.co/FbrrJmXp/Screenshot-2025-02-10-12-31-35-849-com-linkedin-android-edit.jpg" alt="Certificado 14" border="0">
-
-<img src="https://i.ibb.co/gqF6N9n/Captura-de-tela-2025-02-10-121032.png" alt="Certificado 15" border="0">
+<div align="center">
+  <table>
+    <tr>
+      <td><img width="250px" src="https://i.ibb.co/SBndC2K/certificado.png" alt="Certificado 0" /></td>
+      <td><img width="250px" src="https://i.ibb.co/KzNfM40j/Captura-de-tela-2025-02-10-115339.png" alt="Certificado 1" /></td>
+      <td><img width="250px" src="https://i.ibb.co/RGSnqc2c/Captura-de-tela-2025-02-10-115410.png" alt="Certificado 2" /></td>
+    </tr>
+    <tr>
+      <td><img width="250px" src="https://i.ibb.co/0yK7YmxB/Captura-de-tela-2025-02-10-115425.png" alt="Certificado 3" /></td>
+      <td><img width="250px" src="https://i.ibb.co/FkwCYkfp/Captura-de-tela-2025-02-10-115441.png" alt="Certificado 4" /></td>
+      <td><img width="250px" src="https://i.ibb.co/NgF6szNJ/Captura-de-tela-2025-02-10-115504.png" alt="Certificado 5" /></td>
+    </tr>
+    <tr>
+      <td><img width="250px" src="https://i.ibb.co/Xr40zbSw/Captura-de-tela-2025-02-10-115526.png" alt="Certificado 6" /></td>
+      <td><img width="250px" src="https://i.ibb.co/r2kftkmY/Captura-de-tela-2025-02-10-115549.png" alt="Certificado 7" /></td>
+      <td><img width="250px" src="https://i.ibb.co/tw15ZpZ8/Captura-de-tela-2025-02-10-115612.png" alt="Certificado 8" /></td>
+    </tr>
+    <tr>
+      <td><img width="250px" src="https://i.ibb.co/5gPq4xDm/Captura-de-tela-2025-02-10-115641.png" alt="Certificado 9" /></td>
+      <td><img width="250px" src="https://i.ibb.co/LzB8JNyk/Captura-de-tela-2025-02-10-115704.png" alt="Certificado 10" /></td>
+      <td><img width="250px" src="https://i.ibb.co/27r6j6xY/Captura-de-tela-2025-02-10-115721.png" alt="Certificado 11" /></td>
+    </tr>
+    <tr>
+      <td><img width="250px" src="https://i.ibb.co/C5nVgX9H/Captura-de-tela-2025-02-10-115757.png" alt="Certificado 12" /></td>
+      <td><img width="250px" src="https://i.ibb.co/JwDLCfR3/Screenshot-2025-02-10-12-32-23-822-com-linkedin-android-edit.jpg" alt="Certificado 13" /></td>
+      <td><img width="250px" src="https://i.ibb.co/FbrrJmXp/Screenshot-2025-02-10-12-31-35-849-com-linkedin-android-edit.jpg" alt="Certificado 14" /></td>
+    </tr>
+    <tr>
+      <td><img width="250px" src="https://i.ibb.co/gqF6N9n/Captura-de-tela-2025-02-10-121032.png" alt="Certificado 15" /></td>
+    </tr>
+  </table>
+</div>
 
 
 ---
