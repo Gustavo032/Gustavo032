@@ -6,7 +6,7 @@
 - **Idade**: 20 anos
 - **Formação**: Cursando **Engenharia de Software** na Anhanguera.
 - **Objetivo**: Exercer o cargo de analista de sistemas, desenvolvedor ou similar.
-- **Tecnologias principais**: ReactJS, React Native, NextJS, NodeJS, TypeScript, Php, Python, C#.
+- **Tecnologias principais**: ReactJS, React Native, NextJS, NodeJS, TypeScript, Php, Python.
 
 ### Um pouco mais sobre mim
 Estou cursando **Engenharia de Software**, possuo diversos sistemas publicados, tenho bons relacionamentos com colegas e afins, tenho vasta experiência com T.I, desde Auxiliar até Analista. Desejo e vou ser um dos maiores programadores, seja como Empregado, Autônomo ou MEI.
