@@ -3,7 +3,7 @@
 ### Sobre mim
 - **Atualmente**: **Desenvolvedor** na [Code Match](https://codematch.com.br).
 - **Experiência**: Como **Analista de T.I** na [Magazine Luiza](https://www.magazineluiza.com.br/), onde pude alavancar o time de T.I principalmente com o desenvolvimento de apps, incluindo um Sistema de Monitoramento de Impressora, Sistema de Compressão de PDF, Sistema de Controle de Estoque e Sistema de Controle de Coletores. Também trabalhei como Assistente de T.I na [Contabilize Assessoria Empresarial](https://www.contabilizeae.com.br), onde fui o único responsável pelo departamento de tecnologia e como Auxiliar de T.I (e desenvolvedor) na empresa [I Need T.I](https://www.ineedti.com/), onde prestei serviços de Suporte de T.I para diversas empresas de diversos ramos, sendo muito elogiado por todas empresas clientes. Além de desenvolver um sistema de pedido de refeição para escola [MapleBear](https://granjaviana.maplebear.com.br/) .
-- **Idade**: 20 anos
+- **Idade**: 21 anos
 - **Formação**: Cursando **Engenharia de Software** na Anhanguera.
 - **Objetivo**: Exercer o cargo de analista de sistemas, desenvolvedor ou similar.
 - **Tecnologias principais**: ReactJS, React Native, NextJS, NodeJS, TypeScript, Php, Python.
