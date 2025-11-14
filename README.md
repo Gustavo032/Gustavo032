@@ -9,7 +9,7 @@
 - **Tecnologias principais**: ReactJS, React Native, NextJS, NodeJS, TypeScript, Php, Python.
 
 ### Um pouco mais sobre mim
-Estou cursando **Engenharia de Software**, possuo diversos sistemas publicados, tenho bons relacionamentos com colegas e afins, tenho vasta experiência com T.I, desde Auxiliar até Analista. Desejo e vou ser um dos maiores programadores, seja como Empregado, Autônomo ou MEI.
+Estou cursando **Engenharia de Software**, possuo diversos sistemas publicados, tenho bons relacionamentos com colegas e afins, tenho vasta experiência com T.I, desde Auxiliar até Analista.
 
 ---
 
