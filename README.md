@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://gustavo.codematch.com.br">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=0F8AA8&center=true&vCenter=true&width=620&lines=Full+Stack+com+React%2C+Next.js%2C+Vue+e+Node.js;Automa%C3%A7%C3%B5es+em+Python+que+poupam+horas;Linux%2C+VPS%2C+redes+e+IoT+no+dia+a+dia;Cursando+Engenharia+de+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=0F8AA8&center=true&vCenter=true&width=620&lines=Full+Stack+com+React%2C+Next.js%2C+Vue+e+Node.js;Automa%C3%A7%C3%B5es+em+Python+que+poupam+horas;Linux%2C+cloud%2C+redes+e+IoT+no+dia+a+dia;Cursando+Engenharia+de+Software" alt="Typing SVG" />
 </a>
 
 <br />
@@ -21,9 +21,9 @@
 ## 👨‍💻 Sobre mim
 
 Sou desenvolvedor Full Stack com **mais de 4 anos em tecnologia**: comecei no suporte e na infraestrutura
-e hoje construo sistemas web, mobile e IoT de ponta a ponta, do banco de dados ao deploy na VPS.
+e hoje construo sistemas web, mobile e IoT de ponta a ponta, do banco de dados ao deploy em VPS e cloud.
 
-- 🏢 **Agora:** Desenvolvedor Full Stack na **M-Tech (MTechnologia)**, nos produtos *Eazyview* e *Workextra*
+- 🏢 **Agora:** Desenvolvedor Full Stack na **M-Tech (MTechnologia)**, no produto *Workextra* (antigo Eazyview)
 - 🚀 **Code Match:** CEO e dev da minha software house, com sistemas sob demanda para clientes
 - 🎓 **Formação:** Engenharia de Software na Anhanguera (2024 - 2028)
 - 🤖 **IA no fluxo:** Claude Code, Cursor e Codex fazem parte do meu dia a dia
@@ -36,8 +36,8 @@ e hoje construo sistemas web, mobile e IoT de ponta a ponta, do banco de dados a
 
 | Período | Cargo | Empresa | Destaques |
 | :-- | :-- | :-- | :-- |
-| Ago/2026 - hoje | Desenvolvedor Full Stack | **M-Tech (MTechnologia)** | Sistemas internos e externos, Eazyview e Workextra |
-| Nov/2025 - Jul/2026 | Desenvolvedor Full Stack | **VKO Solution** | Telemetria IoT (MQTT, Raspberry Pi, ESP32), chamados, ativos, VPS |
+| Ago/2026 - hoje | Desenvolvedor Full Stack | **M-Tech (MTechnologia)** | Sistemas internos e externos e o Workextra (antigo Eazyview) |
+| Nov/2025 - Jul/2026 | Desenvolvedor Full Stack | **VKO Solution** | Telemetria IoT (MQTT, Raspberry Pi, ESP32), chamados, ativos, deploy em VPS e cloud |
 | Nov/2024 - Fev/2025 | Analista de T.I. | **Magazine Luiza** (VMG) | Automações em Python/JS, sistema de coletores, rede corporativa |
 | Mar/2024 - Out/2024 | Desenvolvedor / Suporte | **I Need T.I.** | Softwares em Node.js e React, servidores, suporte multiempresa |
 | Mar/2023 - hoje | CEO & Desenvolvedor | **Code Match** | Agendamentos, landing pages, quizzes, hospedagem e firewall |
