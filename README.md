@@ -1,70 +1,110 @@
-## Hello World! 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:173a5e,100:0f8aa8&height=190&section=header&text=Gustavo%20Ramos&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20Infraestrutura&descAlignY=58&descSize=16" alt="Gustavo Ramos" />
 
-### Sobre mim
-- **Atualmente**: **Desenvolvedor Full Stack** na [Code Match](https://codematch.com.br) e MTech.
-- **Experiência**: Como **Analista de T.I** na [Magazine Luiza](https://www.magazineluiza.com.br/), onde pude alavancar o time de T.I principalmente com o desenvolvimento de apps, incluindo um Sistema de Monitoramento de Impressora, Sistema de Compressão de PDF, Sistema de Controle de Estoque e Sistema de Controle de Coletores. Também trabalhei como Assistente de T.I na [Contabilize Assessoria Empresarial](https://www.contabilizeae.com.br), onde fui o único responsável pelo departamento de tecnologia e como Auxiliar de T.I (e desenvolvedor) na empresa [I Need T.I](https://www.ineedti.com/), onde prestei serviços de Suporte de T.I para diversas empresas de diversos ramos, sendo muito elogiado por todas empresas clientes. Além de desenvolver um sistema de pedido de refeição para escola [MapleBear](https://granjaviana.maplebear.com.br/) .
-- **Idade**: 21 anos
-- **Formação**: Cursando **Engenharia de Software** na Anhanguera.
-- **Objetivo**: Exercer o cargo de analista de sistemas, desenvolvedor ou similar.
-- **Tecnologias principais**: ReactJS, React Native, NextJS, NodeJS, TypeScript, Php, Python.
-
-### Um pouco mais sobre mim
-Estou cursando **Engenharia de Software**, possuo diversos sistemas publicados, tenho bons relacionamentos com colegas e afins, tenho vasta experiência com T.I, desde Auxiliar até Analista.
-
----
-
-### Me encontre aqui:
 <div align="center">
-  <a href="https://www.linkedin.com/in/gustavoramos32/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:gustavo.ramos.silva.santos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://wa.me/5511971689500"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://app.rocketseat.com.br/me/guusta"><img height="28.7" src="https://cdn.worldvectorlogo.com/logos/rocketseat.svg"></a>
+
+<a href="https://gustavo.codematch.com.br">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=0F8AA8&center=true&vCenter=true&width=620&lines=Full+Stack+com+React%2C+Next.js%2C+Vue+e+Node.js;Automa%C3%A7%C3%B5es+em+Python+que+poupam+horas;Linux%2C+VPS%2C+redes+e+IoT+no+dia+a+dia;Cursando+Engenharia+de+Software" alt="Typing SVG" />
+</a>
+
+<br />
+
+<a href="https://gustavo.codematch.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0f8aa8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
+<a href="https://www.linkedin.com/in/gustavoramos32/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:gustavo.ramos.silva.santos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://wa.me/5511971689500"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://app.rocketseat.com.br/me/guusta"><img src="https://img.shields.io/badge/Rocketseat-8257E5?style=for-the-badge&logo=rocket&logoColor=white" alt="Rocketseat" /></a>
+
 </div>
 
 ---
 
-### Estatísticas do GitHub
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor Full Stack com **mais de 4 anos em tecnologia**: comecei no suporte e na infraestrutura
+e hoje construo sistemas web, mobile e IoT de ponta a ponta, do banco de dados ao deploy na VPS.
+
+- 🏢 **Agora:** Desenvolvedor Full Stack na **M-Tech (MTechnologia)**, nos produtos *Eazyview* e *Workextra*
+- 🚀 **Code Match:** CEO e dev da minha software house, com sistemas sob demanda para clientes
+- 🎓 **Formação:** Engenharia de Software na Anhanguera (2024 - 2028)
+- 🤖 **IA no fluxo:** Claude Code, Cursor e Codex fazem parte do meu dia a dia
+- 🎯 **Busco:** vagas de desenvolvedor, analista de sistemas ou suporte/infra
+- 📍 Itapevi - SP, Brasil
+
+---
+
+## 🧭 Trajetória
+
+| Período | Cargo | Empresa | Destaques |
+| :-- | :-- | :-- | :-- |
+| Ago/2026 - hoje | Desenvolvedor Full Stack | **M-Tech (MTechnologia)** | Sistemas internos e externos, Eazyview e Workextra |
+| Nov/2025 - Jul/2026 | Desenvolvedor Full Stack | **VKO Solution** | Telemetria IoT (MQTT, Raspberry Pi, ESP32), chamados, ativos, VPS |
+| Nov/2024 - Fev/2025 | Analista de T.I. | **Magazine Luiza** (VMG) | Automações em Python/JS, sistema de coletores, rede corporativa |
+| Mar/2024 - Out/2024 | Desenvolvedor / Suporte | **I Need T.I.** | Softwares em Node.js e React, servidores, suporte multiempresa |
+| Mar/2023 - hoje | CEO & Desenvolvedor | **Code Match** | Agendamentos, landing pages, quizzes, hospedagem e firewall |
+| Fev/2022 - Set/2023 | Auxiliar → Assistente de T.I. | **Contabilize** | Responsável pela T.I., servidores, LGPD, sistema de demandas |
+
+---
+
+## 🛠️ Stack
+
 <div align="center">
-  <a href="https://github.com/Gustavo032">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gustavo032&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=9644f4" alt="Gustavo's github stats" />  
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo032&layout=compact&langs_count=7&theme=midnight-purple&border_color=9644f4" />
-  </a>
+
+**Front-end & mobile**<br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,html,css&perline=8" alt="Front-end" />
+
+**Back-end & dados**<br />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,postgres,supabase,prisma,redis&perline=8" alt="Back-end" />
+
+**Infra, DevOps & IoT**<br />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,docker,githubactions,gcp,azure,raspberrypi,arduino&perline=9" alt="Infra" />
+
+**Ferramentas**<br />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,wordpress&perline=6" alt="Ferramentas" />
+
 </div>
 
 ---
 
-### Tecnologias
-| **Using** | **Using** | **Studying** |
-| :--------: | :--------: | :------: |
-| <img align="center" alt="React" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> | <img align="center" alt="AdonisJS" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg"> | <img align="center" alt="C#" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> |
-| <img align="center" alt="MaterialUI" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"> | <img align="center" alt="NodeJS" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> | <img align="center" alt="PHP" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> |
-| <img align="center" alt="JavaScript" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> | <img align="center" alt="TypeScript" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> | <img align="center" alt="Python" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> |
-| <img align="center" alt="Filezilla" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg"> | <img align="center" alt="PostgreSQL" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> | <img align="center" alt="NextJS" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> |
-| <img align="center" alt="SQL" height="30em" width="40em" src="https://cdn-icons-png.freepik.com/256/13941/13941314.png?semt=ais_hybrid"> | <img align="center" alt="MySQL" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> | <img align="center" alt="React Native" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> |
-| <img align="center" alt="MongoDB" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> | <img align="center" alt="Redis" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"> | <img align="center" alt="Flask" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"> |
-| <img align="center" alt="Docker" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> | <img align="center" alt="Nginx" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"> | <img align="center" alt="Kubernetes" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"> |
-| <img align="center" alt="Fail2ban" height="30em" width="40em" src="https://cybergladius.com/wp-content/uploads/2021/07/fail2ban-1-981x1024.png"> | <img align="center" alt="Linux Ubuntu" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> | <img align="center" alt="Electron" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"> |
-| <img align="center" alt="Azure Cloud" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> | <img align="center" alt="Google Cloud" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"> | |
-| <img align="center" alt="ESLint" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg"> | <img align="center" alt="SQLite" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"> | |
-| <img align="center" alt="IIS" height="30em" width="40em" src="https://deepnetsecurity.com/wp-content/uploads/MFA-for-IIS-Websites.png"> | <img align="center" alt="JWT" height="30em" width="40em" src="https://img.icons8.com/?size=512&id=rHpveptSuwDz&format=png"> | |
-| <img align="center" alt="Prisma" height="30em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg"> | <img align="center" alt="WebSockets" height="30em" width="40em" src="https://www.svgrepo.com/show/443547/brand-websocket.svg"> | |
-| <img align="center" alt="PM2" height="30em" width="40em" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/pm2-icon.svg"> | | |
+## 🌟 Projetos em destaque
 
+| Projeto | O que faz | Stack |
+| :-- | :-- | :-- |
+| [**Quiz Cultural EMLTC**](https://github.com/Gustavo032/quiz-cultural-emltc-itapevi) · [ao vivo](https://quiz-cultural-emltc-itapevi.vercel.app) | Projeto de extensão com a Escola Livre de Teatro e Circo de Itapevi: indica o curso ideal pra cada morador | React, TypeScript |
+| [**Pedidos de Refeição**](https://github.com/Gustavo032/react-sistema-lunch) · [ao vivo](https://react-sistema-lunch.vercel.app) | Sistema web de pedidos de refeição para escola | React, TypeScript |
+| [**Monitor de IPs**](https://github.com/Gustavo032/monitor_ips_python) | Monitora a disponibilidade dos equipamentos da rede e dispara alerta sonoro quando algum cai | Python |
+| [**Controle de Coletores**](https://github.com/Gustavo032/coletores_react) | Retirada e devolução de coletores com histórico, filtros e login JWT por setor (Magazine Luiza) | React, TypeScript |
+| [**API SOLID - Check-in em academias**](https://github.com/Gustavo032/ignite-nodejs-03-api-solid-nodejs) | API REST com SOLID, testes com Vitest, JWT e Prisma | Node.js, Fastify, Prisma |
+| [**Enquetes em tempo real**](https://github.com/Gustavo032/NLW-Expert-NODE-JS) | Back-end de enquetes com votos ao vivo via WebSockets | Node.js, Fastify, Redis, WebSockets |
+
+> Boa parte dos meus projetos de clientes (telemetria IoT, chamados, controle de ativos, painéis em nuvem) é privada.
+> Veja mais no meu [portfólio](https://gustavo.codematch.com.br).
 
 ---
 
-### Meus Repositórios Favoritos
+## 📊 GitHub em números
 
-<a href="https://github.com/Gustavo032/ig.news">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo032&repo=ig.news&theme=midnight-purple&border_color=9644f4" />
-</a>
-<a href="https://github.com/Gustavo032/Ignite-ReactJs-Desafio-5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo032&repo=Ignite-ReactJs-Desafio-5&theme=midnight-purple&border_color=9644f4" />
-</a>
+<div align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Resumo do perfil" />
+  <br />
+  <img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositórios por linguagem" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens com mais commits" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Gustavo032&theme=tokyonight&hide_border=true&background=1a1b27&ring=0f8aa8&fire=0f8aa8&currStreakLabel=0f8aa8&locale=pt_BR" alt="Sequência de contribuições" />
+</div>
 
 ---
-### Conquistas
 
+## 🎓 Cursos e certificados
+
+- **CCNA v7: Introduction to Networks** - SENAI (2025)
+- **Implantação de Serviços em Nuvem (AZ-900)** - SENAI (2024)
+- **Segurança Cibernética** - SENAI (2024)
+- **Formação Node.js** - Rocketseat (2024)
+- **Formação ReactJS** - Rocketseat (2022)
+
+<details>
+<summary><b>Ver certificados</b></summary>
+<br />
 <div align="center">
   <table>
     <tr>
@@ -97,15 +137,19 @@ Estou cursando **Engenharia de Software**, possuo diversos sistemas publicados, 
     </tr>
   </table>
 </div>
-
-
----
-
-### Estimativa de visitas no perfil
-<p align="center"> 
-  <img align="center" src="https://profile-counter.glitch.me/gustavo032/count.svg" />
-</p>
+</details>
 
 ---
 
-![snake gif](https://github.com/Gustavo032/Gustavo032/blob/output/github-snake.svg)
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gustavo032/Gustavo032/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Gustavo032/Gustavo032/output/github-snake.svg" alt="Cobrinha comendo as contribuições" />
+</picture>
+
+<img src="https://komarev.com/ghpvc/?username=Gustavo032&label=Visitas%20no%20perfil&color=0f8aa8&style=flat" alt="Visitas no perfil" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f8aa8,100:173a5e&height=110&section=footer" alt="" />
